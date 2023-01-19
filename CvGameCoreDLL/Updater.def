@@ -1,3 +1,0 @@
-LIBRARY CvGameCoreDLL
-EXPORTS
-?getActivePlayer@CvGame@@QBE?AW4PlayerTypes@@XZ=?getActivePlayerExternal@CvGame@@QBE?AW4PlayerTypes@@XZ
